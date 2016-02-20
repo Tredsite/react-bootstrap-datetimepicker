@@ -10,5 +10,6 @@ src
 examples
 bower.json
 webpack.config.js
+dist
 TODO.md
 karma.dev.js
